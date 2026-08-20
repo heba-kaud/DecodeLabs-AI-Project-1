@@ -15,9 +15,9 @@ while True:
         print("Bot: I'm fine, thank you!😊")
     elif user_input.lower() in ["what is your name?", "what's your name","your name"]:
         print("Bot: My name is AI Bot.🤖")
-    elif user_input.lower() == "what is AI?"
+    elif user_input.lower() == "what is AI?":
         print("Bot: Artifical Intelligance (AI) is the ability of machines to perform taskes that normally require human intelligence. ")
-    elif user_input.lower() == "Is there a treatment for seborrheic dermatitis?"
+    elif user_input.lower() == "Is there a treatment for seborrheic dermatitis?":
         print("Bot: Yes, there are treatments that can help control seborrheic eczema. Treatment may include medicated shampoos or creams, depending on the affected area.")
     else:
         print("Bot: Sorry, I don't understand.🤔")
