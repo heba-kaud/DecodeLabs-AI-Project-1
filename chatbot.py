@@ -1,5 +1,3 @@
-from idlelib.macosx import hideTkConsole
-
 print("🤖Hello! I am your AI Chatbot.")
 print("Type 'bye' to exit")
 while True:
